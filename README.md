@@ -17,14 +17,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surjesh-yadav&theme=gruvbox"  alt="surjesh-yadav" /></a> </p>
 <img align="right" alt="Coding" width="500" margin-radius="20" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif">
 
-- 📫 How to reach me **surjeshom@gmail.com**
-  - Whatsapp - **+918445618704**
+- 📫 How to reach me **rasoolarman7@gmail.com**
+  - Whatsapp - **+919634743199**
 - ⚡ Fact About me :- **I am Passionate about New Technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/SurjeshYadav8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapy71252109" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/surjeshyadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnil-landage-74190b15b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arman-rasool-b74b04194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnil-landage-74190b15b" height="30" width="40" /></a>
 <a href="https://instagram.com/surjeshyadav8704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surjeshyadav8704" height="30" width="40" /></a>
 </p>
 
