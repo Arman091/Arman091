@@ -12,9 +12,9 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arman091&label=Profile%20views&color=0e75b6&style=flat&theme=gruvbox" alt="surjesh-yadav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arman091&label=Profile%20views&color=0e75b6&style=flat&theme=gruvbox" alt="arman091" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surjesh-yadav&theme=gruvbox"  alt="surjesh-yadav" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arman091&theme=gruvbox"  alt="arman091" /></a> </p>
 <img align="right" alt="Coding" width="500" margin-radius="20" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif">
 
 - 📫 How to reach me **rasoolarman7@gmail.com**
