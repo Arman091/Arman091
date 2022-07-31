@@ -1,12 +1,12 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
-<h1 align="center">Hi 👋, I'm Surjesh Yadav</h1>
+<h1 align="center">Hi 👋, I'm Arman Rasool</h1>
 <h1 align="center">
   <b>Hey!! Warriors</b>
 </h1>
 
 <h3 align="center" >"It always seems impossible until it's done."</h3>
 <p align="center" ><samp>I was passionate about coding so  I started my journey with a degree in Bachelor of Computer Application.</samp></p>
-<p align="center" ><samp align="center"> After BCA I joind Masai School it made me curious that one can create unique virtual platforms just by coding. This started to build up my interest in web development.</samp></p>
+ 
 <p align="center" ><samp align="center">I have learned lots of Advanced skills in web development like HTML, CSS, Javascript, NodeJS, MongoDB, Express, React, and DSA</samp></p>
 <p align="center" ><samp align="center">Now I am A passionate Full stack web developer with a flair for creating elegant and user centric solutions within the given deadline. Passionate about software architecture and cloud computing. Regular attendee of web developer meetups and hackathons..</samp></p>
 
