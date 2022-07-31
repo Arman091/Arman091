@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surjesh-yadav&label=Profile%20views&color=0e75b6&style=flat&theme=gruvbox" alt="surjesh-yadav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arman091&label=Profile%20views&color=0e75b6&style=flat&theme=gruvbox" alt="surjesh-yadav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surjesh-yadav&theme=gruvbox"  alt="surjesh-yadav" /></a> </p>
 <img align="right" alt="Coding" width="500" margin-radius="20" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif">
@@ -23,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/SurjeshYadav8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapy71252109" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arman-rasool-b74b04194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnil-landage-74190b15b" height="30" width="40" /></a>
 <a href="https://instagram.com/surjeshyadav8704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surjeshyadav8704" height="30" width="40" /></a>
 </p>
@@ -44,13 +43,13 @@
  
 <p align="left">
   <a href="">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=surjesh-yadav&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=surjesh-yadav&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=arman091&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=arman091&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 <p align="center">
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=surjesh-yadav&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman091&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> I don't just sell websites, I create websites that SELL.
   </p>
